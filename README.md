@@ -2,7 +2,7 @@ Project name: Price Plan
 
 Live link: https://price-plan.web.app/
 
-GitHub link: 
+GitHub link: https://github.com/Dipta04/price-plan
 
 Technology: Bootstrap 5, React-router, Firebase, React Icons.
 
